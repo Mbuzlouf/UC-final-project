@@ -2,10 +2,10 @@
 > ⬇️ تعبئة معلومات المشروع بالعربية  
 <div dir="rtl">
 
-### اسم الطالب
+### محمد بوزلوف
 
 
-### اسم المشروع
+### قَلَم
 
 
 # شرح الفكرة
@@ -18,10 +18,10 @@
 </div>
 
 > Fill out project information in English ⬇️
-### Student Name
+### Mohammed Buzlouf
 
 
-### Project Name
+### Qalam
 
 # Idea
 Problem and solutions if found 
